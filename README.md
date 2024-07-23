@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">A passionate fillstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **rust**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ankit-singh-638733243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankit-singh-638733243/" height="30" width="40" /></a>
-<a href="https://instagram.com/@abhi.ankit.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@abhi.ankit.singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankit-singh-638733243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-singh-638733243/" height="30" width="40" /></a>
+<a href="https://instagram.com/abhi.ankit.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi.ankit.singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@ankitsingh9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ankitsingh9696" height="30" width="40" /></a>
 </p>
 
